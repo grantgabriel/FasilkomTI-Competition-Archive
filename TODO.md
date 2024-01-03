@@ -5,3 +5,4 @@
 
 # Docs Tasks
 - [ ] Documenting and crediting works. 
+- [ ] Documenting on the README.md

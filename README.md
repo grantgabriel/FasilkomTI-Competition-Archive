@@ -1,16 +1,10 @@
 # FasilkomTI-Archive
 An open documentary for every competition Fasilkom USU ever encounter 
 
+## Folder Structures
 .
-├── node_modules
-├── src
+├── Gemastik
+├── PKM
 ├── .gitignore
-├── .prettierrc
-├── gatsby-browser.js
-├── gatsby-config.js
-├── gatsby-node.js
-├── gatsby-ssr.js
-├── LICENSE
-├── package-lock.json
-├── package.json
-└── README.md
+├── README.md
+└── TODO.md
