@@ -3,7 +3,7 @@
 - [ ] Follow up with issues and credentials
 - [ ] Create websites for the code part // Reference : https://cp-itb.github.io/contests/#
 - [ ] Update other gemastik data from 2023
-- [ ] Update all of the .MD files for relevance
+- [X] Update all of the .MD files for relevance
 
 # Docs Tasks
 - [ ] Documenting and crediting works. 
