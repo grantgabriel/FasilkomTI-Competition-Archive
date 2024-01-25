@@ -1,5 +1,5 @@
 # FasilkomTI-Archive
-An open documentary for every competition Fasilkom USU ever encounter 
+An open sourced, rich documentary for every competition Fasilkom-TI USU ever encounter. 
 
 ## Folder Structures
 
@@ -11,3 +11,6 @@ An open documentary for every competition Fasilkom USU ever encounter
 ├── README.md
 └── TODO.md
 ```
+
+## Contributing
+Please fork and send pull requests, the regulation of contribution comes up later!
