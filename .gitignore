@@ -1,15 +1,17 @@
 # General file extension (Garbage)
 *~
 
-# General folder (Private = competition archive that the person didn't want to publish publicly
+# General folder (Competition archive from other uni that the person didn't want to publish publicly)
 /Private
 
-# PKM private folder
+# PKM private folder (Fasilkom-TI Student submission who do not wish to be published)
 /PKM/Private
 
-# Gemastik private folder 
+# Gemastik private folder (Fasilkom-TI Student submission who do not wish to be published)
 /Gemastik/Private
 
-# Pilmapres private folder
+# Pilmapres capaian unggul (Fasilkom-TI Student submission who do not wish to be published)
 /Pilmapres/2024/Submission/Capaian Unggul
 
+# Satria Data private folder (Fasilkom-TI Student submission who do not wish to be published)
+/Satria Data/Private
